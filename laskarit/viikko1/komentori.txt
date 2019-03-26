@@ -1,0 +1,37 @@
+/home/aleksipeltonen
+├── Desktop
+├── Dev
+│   ├── GitHarjoittelu
+│   │   ├── eka.txt
+│   │   ├── kolmas.txt
+│   │   └── tiedostoja
+│   │       ├── file2
+│   │       ├── file3
+│   │       └── loki.txt
+│   └── ot-harjoitustyo
+│       ├── laskarit
+│       │   └── viikko1
+│       └── README.md
+├── Documents
+├── Downloads
+│   ├── sky-2.1.7363-1.fc29.x86_64.rpm
+│   └── tasks.xlsx
+├── Music
+├── Pictures
+│   ├── Screenshot from 2019-03-21 13-20-53.png
+│   ├── Screenshot from 2019-03-21 13-21-08.png
+│   ├── Screenshot from 2019-03-24 17-54-14.png
+│   └── Screenshot from 2019-03-24 17-59-38.png
+├── Public
+├── snap
+│   ├── spotify
+│   │   ├── 34
+│   │   ├── common
+│   │   └── current -> 34
+│   └── vscode
+│       ├── 89
+│       ├── common
+│       └── current -> 89
+├── Templates
+└── Videos
+

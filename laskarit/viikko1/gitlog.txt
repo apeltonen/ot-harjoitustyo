@@ -1,0 +1,102 @@
+commit f07771aac2dd9f5378c5e6e0bc4c74176c816d81
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Tue Mar 26 11:40:29 2019 +0200
+
+    poistettu
+
+ tiedostoja/file1 | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 73b8e0ed36cb7f2090e23d39e4feb85acb38535d
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Tue Mar 26 11:39:55 2019 +0200
+
+    poistettu1
+
+ tiedostoja/file3 | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 291e68dbfbe7208a99daffe2a7c1f4f81aabe5fd
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Tue Mar 26 11:37:13 2019 +0200
+
+    kolme filua
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 8fc1ca7d6d2487b0b306a3abe7141e7008345f70
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Tue Mar 26 09:05:21 2019 +0200
+
+    lisäyksiä ja poistoja
+
+ eka.txt    | 8 +++++++-
+ kolmas.txt | 6 ++++++
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+
+commit b4b857e2ec668d313cbc26d73e2bc719cb2a3b4b
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Fri Mar 22 14:04:44 2019 +0200
+
+    uudelleen nimetty tiedosto.txt->eka.txt
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c53c14bc664c4f0ae13d87c52a48101c655fcade
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Fri Mar 22 14:03:25 2019 +0200
+
+    poistettu tiedosto toinen.txt
+
+ toinen.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit cc115d5aa027daafc583c72cb39c26a9e5870b35
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Fri Mar 22 13:54:58 2019 +0200
+
+    poistettu ja lisätty tekstiä
+
+ tiedosto.txt | 43 ++-----------------------------------------
+ 1 file changed, 2 insertions(+), 41 deletions(-)
+
+commit 9e4bd50da0a5f7a009ba2f8389d1e27dd317b04e
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Fri Mar 22 13:49:34 2019 +0200
+
+    lisätty palon tekstiä
+
+ tiedosto.txt | 27257 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 27257 insertions(+)
+
+commit d699544f84a4b64b2259d301ba32954b080ddbce
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Fri Mar 22 13:06:49 2019 +0200
+
+    kolmas.txt luotu
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 7a04cbd3bf81d9ec062d92f8623d375852d5f412
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Fri Mar 22 12:58:53 2019 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 0
+ 2 files changed, 1 insertion(+)
+
+commit 598413e2c676d16b716a6242ce13bb31dbd31ba4
+Author: Aleksi Peltonen <aleksi.peltonen@gmail.com>
+Date:   Fri Mar 22 12:50:46 2019 +0200
+
+    Tiedosto luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
